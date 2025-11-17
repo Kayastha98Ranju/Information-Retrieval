@@ -1,0 +1,511 @@
+160 Copyright © All rights are reserved by Robert Skopec.
+Modern Approaches on 
+Material Science 
+Review Article
+Quantum Entaglement Entropy Produces Energy by Info Entropy Fields Forces
+Robert Skopec*
+Biologist researcher Dubnik, Slovakia, Axon Europe
+*Corresponding author: Robert Skopec, Biologist researcher Dubnik, Slovakia, Axon Europe
+Received: August 20, 2019 Published: August 29, 2019
+Introduction
+Everybody knows holograms from credit cards or banknotes. 
+They are two dimensional, but to us they appear three dimensional. 
+Our Universe could behave quite similarly. In 1997, the physicist 
+Juan Maldacena proposed the idea that there is a correspondence 
+between gravitational theories in curved anti-de-sitter spaces on 
+the one hand and quantum field theories in spaces with one fewer 
+dimension on the other [1]. If quantum gravity in a flat space allows 
+for holographic description by standard quantum theory, then 
+there must be physical quantities, which can be calculated in both 
+theories and the results must agree. Especially one key feature of 
+quantum mechanics–quantum entanglement has to appear in the 
+gravitational theory [2]. When quantum particles are entangled, 
+they cannot be described individually. They form a single quantum 
+object, even if they are located far apart. There is a measure for 
+the amount of entanglement in quantum system, called „entropy 
+of entanglement “. This entropy of entanglement takes the same 
+value in flat quantum gravity and in a low dimension quantum field 
+theory. This calculation affirms our assumption that the holographic 
+principle can also be realized in flat spaces. I tis evidence for the 
+validity of this correspondence in our Universe. The fact that we can 
+even talk about quantum information and entropy of entanglement 
+in a theory of gravity is astounding in itself and would hardly have 
+been imaginable only a few years back. Apparently, there is growing 
+evidence for the validity of the correspondence principle in our 
+own Universe [3,4].
+Spacetime is Built from Quantum Entanglement
+Now are published papers about a significant step toward 
+unifying general relativity and quantum mechanics by explaining 
+how spacetime emerges from quantum entanglement. However, 
+understanding the precise mechanics for the emergence of three dimensional volume from the two-dimensional surface has been 
+not easy. Hirosi Ooguri, from the University of Tokyo, and Caltech 
+mathematician Matilde Marcolli, argue that quantum entanglement 
+is the key to solve this question [5,6]. Using a quantum theory (that 
+does not include gravity), they showed how to compute energy 
+density, which is a source of gravitational interactions in three 
+dimensions, using quantum entanglement data on the surface. This 
+is analogous to diagnosing conditions inside of your body by looking 
+at X-ray images on two-dimensional sheets. This allowed to interpret 
+ISSN: 2641-6921
+DOI: 10.32474/MAMS.2019.02.000126
+Abstract
+Sometimes, if you want to understand how nature truly works, you need to break things down to the simplest levels imaginable. 
+The macroscopic world is composed of particles that are - if you divide them until they can be divided no more - fundamental. They 
+experience forces that are determined by the exchange of additional particles (or the curvature of spacetime, for gravity), and react 
+to the presence of objects around them. At least, that’s how it seems. The closer two objects are, the greater the forces they exert 
+on one another. If they’re too far away, the forces drop off to zero, just like your intuition tells you they should. This is called the 
+principle of locality, and it holds true in almost every instance. But in quantum mechanics, it’s violated all the time. Locality may be 
+nothing but a persistent illusion and seeing through that facade may be just what physics needs.
+Keywords: Quantum Gravity; Principle of Non-Locality; Einstein’s General Theory of Relativity; Quantum Entanglement Entropy 
+(QEE); Schrödinger’s Cat; Superposition; Information about its Entangled Partner; Teleport Information; Quantum Physics as 
+Fundamentally a Non-Local Theory
+Citation: Robert Skopec. Quantum Entaglement Entropy Produces Energy by Info-Entropy Fields Forces. Mod App Matrl Sci 2(1)- 2019. 
+MAMS.MS.ID.000126. DOI: 10.32474/MAMS.2019.02.000126.
+ Volume 2 - Issue 1 Mod App Matrl Sci. Copyrights @ Robert Skopec
+161
+universal properties of quantum entanglement as conditions on the 
+energy density that should be satisfied by any consistent quantum 
+theory of gravity, without actually explicitly including gravity in 
+the theory of Ooguri and Marcolli: that is quantum entanglement 
+generates the extra dimensions of the gravitational theory [7,8]. It 
+was known that quantum entanglement is related to deep issues 
+in unification of general relativity and quantum mechanics, such as 
+the black hole information paradox and the firewall paradox. This 
+sheds new light on the relation between quantum entanglement 
+and the microscopic structure of spacetime by explicit calculations. 
+The interface between quantum gravity and information science 
+is becoming increasingly important for both fields. I myself am 
+collaborating with information scientists to pursue this line of 
+research further [8,9].
+Karma and Quantum Mechanics
+Whether you’re into Eastern philosophy or Western scientific 
+fact-finding, both disciplines strive to tackle the same goal: 
+understanding how the universe works. For centuries, Buddhists 
+have tackled this age-old question of the inner workings of the 
+universe and have a wonderfully simplified approach to it-they call 
+it the law of Karma [10]. Westerners, on the other hand, have created 
+a relatively new field of scientific study called quantum mechanics, 
+seeking to derive mathematical formulas to capture the universe 
+at work. Here’s the thing, they both agree on a fundamental: 
+everything we do creates a corresponding energy that comes back 
+to us in some form or another. Think of it this way: I hold a door for 
+someone, and that someone passes along that action to someone 
+else by holding the door for them [11].
+How Do I Get What I Want?
+Figure 1:
+I’ll be the first to admit that I am no scientist, nor am I a Buddhist 
+monk, but I’m fascinated by both disciplines and have spent some 
+time studying them. If you embrace the fact that, from a scientific 
+perspective, the energy you expend taking an action comes back 
+to you or someone else, then you’ll get where I’m going with this 
+article. Ask any Buddhist monk this question, “How do I get what I 
+want?” They will respond, (very calmly and matter-of-factly) “Help 
+someone else get the same thing” (Figure 1). The proton’s structure, 
+modeled along with its attendant fields, show how even though it’s 
+made out of point-like quarks and gluons, it has a finite, substantial 
+size which arises from the interplay of the quantum forces and 
+fields inside it. The proton, itself, is a composite, not fundamental, 
+quantum particle. (Brookhaven National Laboratory) A single 
+thought experiment reveals a paradox. As part of Quantum Gravity 
+theory, the Quantum Entanglement Entropy (QEE) is the solution.
+The Bigger the Challenge, the Bigger the Effort is 
+Required
+The universe doesn’t immediately respond to your actions 
+with good Karma. It can take time before the universe repays 
+your intentional actions with more actions that help you progress 
+toward your goal. Like a slingshot, the universe requires energy 
+to be expended, such as pulling back a slingshot. You might find 
+yourself generating days, if not weeks or months, of output before 
+you see the effects of your efforts. Sometimes, the efforts come in 
+a trickle, and other times, they can come in deluge [12]. The trick 
+is to keep your focus on generating actions that help others in the 
+direction you seek to go yourself.
+Nothing Takes The Place of Committed All-In 
+Action Every Day
+Figure 2:
+Figure 3:
+ Volume 2 - Issue 1 Mod App Matrl Sci.
+Citation: Robert Skopec. Quantum Entaglement Entropy Produces Energy by Info-Entropy Fields Forces. Mod App Matrl Sci 2(1)- 2019. 
+MAMS.MS.ID.000126. DOI: 10.32474/MAMS.2019.02.000126.
+Copyrights @ Robert Skopec.
+162
+One more thought: this topic that I’m introducing is barely the 
+tip of the iceberg of the meta-physical dynamics of the universe in 
+which we live. But the ideas are relevant to anyone seeking to turn a 
+dream into reality. There are forces at work that can help or hinder 
+your efforts. The more you put forth energies without expectation 
+of personal gain, while helping others, the more you’ll be surprised 
+at how the universe will open the door to the goal you seek to 
+attain. Make no mistake, nothing takes the place of committed All in action every day. Never, Ever, Give Up on your dreams, and soon 
+you’ll discover that the universe will not give up on you [13,14] 
+(Figure 2). Quantum gravity tries to combine Einstein’s general 
+theory of relativity with quantum mechanics. Quantum corrections 
+to classical gravity are visualized as loop diagrams, as the one 
+shown here in white. We typically view objects that are close to 
+one another as capable of exerting forces on one another, but that 
+might be an illusion, too. (Slac National Accelerator Lab) Imagine 
+that you had two objects located in close proximity to one another. 
+They would attract or repel one another based on their charges 
+and the distance between them. You might visualize this as one 
+object generating a field that affects the other, or as two objects 
+exchanging particles that impart either a push or a pull to one or 
+both of them. You’d expect, of course, that there would be a speed 
+limit to this interaction: the speed of light. Relativity gives you no 
+other way out, since the speed at which the particles responsible 
+for forces propagate is limited by the speed they can travel, which 
+can never exceed the speed of light for any particle in the Universe. 
+It seems so straightforward, and yet the Universe is full of surprises 
+(Figure 3). An example of a light cone, the three-dimensional 
+surface of all possible light rays arriving at and departing from a 
+point in spacetime. The more you move through space, the less you 
+move through time, and vice versa. Only things contained within 
+your past light-cone can affect you today; only things contained 
+within your future light-cone can be perceived by you in the future. 
+(Wikimedia Commons User Missmj). We have this notion of cause and-effect that’s been hard-wired into us by our experience with 
+reality. Physicists call this causality, and it’s one of the rare physics 
+ideas that actually conforms to our intuition. Every observer in 
+the Universe, from its own perspective, has a set of events that 
+exist in its past and in its future [15]. In relativity, these are events 
+contained within either your past light-cone (for events that can 
+causally affect you) or your future light-cone (for events that you 
+can causally effect). Events that can be seen, perceived, or can 
+otherwise have an effect on an observer are known as causally 
+connected. Signals and physical effects, both from the past and into 
+the future, can propagate at the speed of light, but no faster. At least, 
+that’s what your intuitive notions about reality tell you (Figure 4).
+Figure 4:
+Schrödinger’s Cat
+Inside the box, the cat will be either alive or dead, depending on 
+whether a radioactive particle decayed or not. If the cat were a true 
+quantum system, the cat would be neither alive nor dead, but in a 
+superposition of both states until observed. (Wikimedia Commons 
+User Dhatfield). But in the quantum Universe, this notion of 
+relativistic causality isn’t as straightforward or universal as it would 
+seem. There are many properties that a particle can have - such 
+as its spin or polarization - that are fundamentally indeterminate 
+until you make a measurement. Prior to observing the particle or 
+interacting with it in such a way that it’s forced to be in either one 
+state or the other, it’s actually in a superposition of all possible 
+outcomes [16]. Well, you can also take two quantum particles 
+and entangle them, so that these very same quantum properties 
+are linked between the two entangled particles. Whenever you 
+interact with one member of the entangled pair, you not only 
+gain information about which particular state it’s in, but also 
+information about its entangled partner (Figure 5). By creating two 
+entangled photons from a pre-existing system and separating them 
+by great distances, we can ‘teleport’ information about the state of 
+one by measuring the state of the other, even from extraordinarily 
+different locations. (Melissa Meister, Of Laser Photons Through A 
+Beam Splitter). This wouldn’t be so bad, except for the fact that you 
+can set up an experiment as follows. You can create your pair of 
+entangled particles at a particular location in space and time. You 
+can transport them an arbitrarily large distance apart from one 
+another, all while maintaining that quantum entanglement. Finally, 
+Citation: Robert Skopec. Quantum Entaglement Entropy Produces Energy by Info-Entropy Fields Forces. Mod App Matrl Sci 2(1)- 2019. 
+MAMS.MS.ID.000126. DOI: 10.32474/MAMS.2019.02.000126.
+ Volume 2 - Issue 1 Mod App Matrl Sci. Copyrights @ Robert Skopec
+163
+you can make those measurements (or force those interactions) as 
+close to simultaneously as possible. In every instance where you 
+do this, you’ll find the member you measure in a particular state, 
+and instantly “know” some information about the other entangled 
+member (Figure 6).
+Figure 5:
+Figure 6:
+A photon can have two types of circular polarizations, arbitrarily 
+defined so that one is + and one is -. By devising an experiment 
+to test correlations between the directional polarization of 
+entangled particles, one can attempt to distinguish between 
+certain formulations of quantum mechanics that lead to different 
+experimental results. (Dave3457 / Wikimedia Commons). What’s 
+puzzling is that you cannot check whether this information is true 
+or not until much later, because it takes a finite amount of time for a 
+light signal to arrive from the other member. When the signal does 
+arrive, it always confirms what you’d known just by measuring your 
+member of the entangled pair: your expectation for the state of the 
+distant particle agreed 100% with what its measurement indicated 
+[17]. Only, there seems to be a problem. You “knew” information 
+about a measurement that was taking place non-locally, which is 
+to say that the measurement that occurred is outside of your light 
+cone. Yet somehow, you weren’t entirely ignorant about what was 
+going on over there. Even though no information was transmitted 
+faster than the speed of light, this measurement describes a 
+troubling truth about quantum physics: it is fundamentally a non local theory (Figure 7). Schematic of the third Aspect experiment 
+testing quantum non-locality. Entangled photons from the source 
+are sent to two fast switches that direct them to polarizing detectors. 
+The switches change settings very rapidly, effectively changing the 
+detector settings for the experiment while the photons are in flight. 
+(Chad Orzel). There are limits to this, of course. It isn’t as clean as 
+you want: measuring the state of your particle doesn’t tell us the 
+exact state of its entangled pair, just probabilistic information about 
+its partner. There is still no way to send a signal faster than light; 
+you can only use this non-locality to predict a statistical average 
+of entangled particle properties. And even though it has been the 
+dream of many, from Einstein to Schrödinger to de Broglie, no one 
+has ever come up with an improved version of quantum mechanics 
+that tells you anything more than its original formulation [18]. 
+But there are many who still dream that dream (Figure 8). If two 
+particles are entangled, they have complementary wavefunction 
+properties, and measuring one places meaningful constraints 
+on the properties of the other. (Wikimedia Commons User David 
+Koryagin).
+Figure 7:
+Figure 8:
+One of them is Lee Smolin, who cowrote a paper [Physical 
+Review D] way back in 2003 that showed an intriguing link between 
+general ideas in quantum gravity and the fundamental non-locality 
+of quantum physics. Although we don’t have a successful quantum 
+theory of gravity, we have established a number of important 
+properties concerning how a quantum theory of gravity will behave 
+and still be consistent with the known Universe (Figure 9). A 
+variety of quantum interpretations and their differing assignments 
+of a variety of properties. Despite their differences, there are no 
+experiments known that can tell these various interpretations apart 
+from one another, although certain interpretations, like those with 
+local, real, deterministic hidden variables, can be ruled out. (English 
+Wikipedia Page on Interpretations of Quantum Mechanics). There 
+are many reasons to be skeptical that this conjecture will hold up 
+to further scrutiny. For one, we don’t truly understand quantum 
+ Volume 2 - Issue 1 Mod App Matrl Sci.
+Citation: Robert Skopec. Quantum Entaglement Entropy Produces Energy by Info-Entropy Fields Forces. Mod App Matrl Sci 2(1)- 2019. 
+MAMS.MS.ID.000126. DOI: 10.32474/MAMS.2019.02.000126.
+Copyrights @ Robert Skopec.
+164
+gravity at all, and anything we can say about it is extraordinarily 
+provisional. For another, replacing the non-local behavior of 
+quantum mechanics with the non-local behavior of quantum 
+gravity is arguably making the problem worse, not better. And, as a 
+third reason, there is nothing thought to be observable or testable 
+about these non-local variables that Markopoulou and Smolin claim 
+could explain this bizarre property of the quantum Universe [19]. 
+Fortunately, we’ll have the opportunity to hear the story direct 
+from Smolin himself and evaluate it on our own. It is curious about 
+what Smolin is calling Einstein’s Unfinished Revolution, which 
+is the ultimate quest to supersede our two current (but mutually 
+incompatible) descriptions of reality: General Relativity and 
+quantum mechanics (Figure 10). Find out where we are in the quest 
+for quantum gravity, and what promises it may (or may not) have 
+for revolutionizing one of the greatest counterintuitive mysteries 
+about the quantum nature of reality! [19,20]. Thanks for joining 
+me for an interesting lecture and discussions on science, and just 
+maybe, someday, we’ll have some interesting progress to report on 
+this topic. Until then, you don’t have to shut up, but you still do have 
+to calculate! 
+Figure 9:
+Figure 10:
+Quantum Entanglement Entropy Plays a Key Role
+Gauge/gravity duality posits an exact equivalence between 
+certain conformal field theories (CFT’s) with many degrees of 
+freedom and higher dimensional theories with gravity. We try 
+to understand how bulk spacetime geometry and gravitational 
+dynamics emerge from a non-gravitational theory. In recent years, 
+there have appeared hints that quantum entanglement entropy 
+a key role. One important development in this direction was the 
+proposal that the entanglement entropy between spatial domain D 
+of CFT and its complement is equal to the area of the bulk extremal 
+surface . 4
+min. ( )
+GN
+area
+D
+Σ
+= Σ ∑ = δ δ
+Using this showed the emergence of linearized gravity from 
+entanglement physics of the CFT, we continue this program. 
+Moreover, we show that bulk stress-energy density in this region 
+can be reconstructed point-by-point from entanglement on the 
+boundary [21]. Relative entropy is a measure of distinguishability 
+between two quantum state in the Hilbert space. The relative 
+entropy of two density matrices and is defined as S( p0/ p1 )=tr(
+p1
+log p1
+)-tr( p1
+log p0 ).
+When and are reduced density matrices on a spatial domain D 
+for two states of a quantum field theory (QFT), which is the case 
+which implies that S( / ) increases with the size of D. Defining the 
+modular Hamiltonial H mod of p0 implicitly through p0 = ,
+) ( mod
+mod
+H
+H
+tr e
+e
+−
+−
+It is easy to see that above is equivalent to
+S( p0/ p1
+)=∆(H mod ) − ∆S EE ≥ 0 , where ∆(H mod = tr ( p1H mod ) − tr ( p0H mod )
+is the change in the expectation value of the operator H mod and 
+∆S EE = −tr ( p1 log p1 ) − tr ( p0 log p0 ) is the change in entanglement 
+entropy across D as one goes between the states. In general, the 
+modular Hamiltonian associated to a given density matrix is 
+nonlocal. There are a few simple cases where it is explicitly known. 
+When is the reduced density matrix of the vacuum state of a CFT on 
+a disk of radius R which (without loss of generality) we take to be 
+centered at x0 = 0,
+H mod = ∫ − −
+2
+( ),
+2
+1 T x R
+x Rx d tt
+d π
+where Ttt is the energy density of the CFT [22]?
+The Interface between Quantum Gravity and 
+Information Science
+Theory of Quantum Gravitation
+Lee Smolin showed an intriguing link between general ideas 
+in quantum gravity and the fundamental non-locality of quantum 
+physics, We must replace the non-local behavior of quantum 
+mechanics with the non-local behavior of quantum gravity [23].
+Quantum Entanglement Entropy:
+Ooguri and Marcolli’s work shows that this quantum 
+entanglement generates the extra dimensions of the gravitational 
+theory, entangled particles have also complementary properties, 
+entangled quantum particles cannot be seen individually, they form 
+a single quantum object, even if they are located far apart, If two 
+particles are entangled they have complementary wavefunction 
+properties and measuring one places meaningful constraints on the 
+properties of the other.
+Quantum Information:
+The interface between quantum gravity and information 
+science is becoming increasingly important for both fields [24]. 
+Based on Lee Smolin’s calling for continuing in Einstein’s Unfinished 
+Citation: Robert Skopec. Quantum Entaglement Entropy Produces Energy by Info-Entropy Fields Forces. Mod App Matrl Sci 2(1)- 2019. 
+MAMS.MS.ID.000126. DOI: 10.32474/MAMS.2019.02.000126.
+ Volume 2 - Issue 1 Mod App Matrl Sci. Copyrights @ Robert Skopec
+165
+Revolution, I propose the ultimate quest to supersede our two 
+current (mutually compatible) descriptions of reality: General 
+Relativity and Quantum Gravity. General Relativity and Quantum 
+Gravity including Quantum Entanglement Entropy means that The 
+Twofaced New Main Law of Nature may lead to a New Scientific 
+Revolution.
+Conclusion
+It has been shown that information and “entropy” a measure 
+of the disorder of a system are linked together to “info-entropy” 
+in a way exactly analogous to electric and magnetic fields 
+(“Electromagnetism”). Electric currents produce magnetic 
+fields, while changing magnetic fields produce electric currents. 
+Information and entropy influence each other in the same way. 
+Entropy is a fundamental concept in physics. For example, because 
+entropy can never decrease (disorder always increases) you can 
+turn an egg into scrambled eggs but not the other way around. If 
+you move information around you must also increase entropy 
+a phone call has an entropy cost (Figure 11). It has been showed 
+that entropy and information can be treated as a field and that 
+they are related to geometry. Think of the two strands of the DNA 
+double helix winding around each other. Light waves have the same 
+structure, where the two strands are the electric and magnetic 
+fields. We showed mathematically that the relationship between 
+information and entropy can be visualized using just the same 
+geometry. If we want to see if our theory could predict things in the 
+real world and decided to try and calculate how much energy you’d 
+need to convert one form of DNA to another. 
+Figure 11:
+Figure 12: Two forms of DNA. Modified (2019) from 
+Fig. 5 of Allemand et al. Proc. Natl. Acad. Sci. USA 95, 
+14152–14157 (1998), CC BY 
+DNA is after all a spiral and a form of information (Figure 12). 
+We needed to know the entropy of the galaxy for our calculations. 
+Luckily, the mathematical physicist Roger Penrose showed that this 
+entropy is dominated by the entropy of its central super-massive 
+black hole. We know the mass of this black hole (4.3m sun masses). 
+And amazingly, when you know the mass of a black hole, there is 
+an equation, discovered by the late physicist Stephen Hawking, that 
+calculates its entropy. Hawking also discovered how to calculate the 
+“temperature” at its surface, or “event horizon”. If you can assign a 
+“temperature” to the black hole event horizon – which has no stuff 
+in it to have temperature, why not also assign a temperature to a 
+galaxy? We argue in our paper that this is reasonable (using what’s 
+known as the “holographic principle”). So, we used our info-entropy 
+equations to calculate the galaxy’s holographic temperature. Then 
+it gets easy. We know that the galactic energy is given by the product 
+of its entropy and temperature. And when we know the energy we 
+can find out the mass thanks to Einstein’s famous equation: E=mc2
+. 
+This time the result was not exactly spot on, but it was reasonably 
+close given our highly simplified model of the galaxy. The info entropic geometry of a galaxy not only explains how entropic 
+forces create the beautifully symmetric shape and keep it, but also 
+accounts for all the mass that appears to be evident in it. We think 
+that the “morphogenic field” Kepler was seeking really does exist 
+and is actually the effect of the intertwining of information and 
+entropy. After four long centuries, it seems Kepler has finally been 
+vindicated.
+References
+1. C Holzhey, F Larsen F Wilczek (1994) Geometric and renormalized 
+entropy in conformal field theory. Nucl Phys B 424(3): 443-467.
+2. E Verlinde (2011) On the origin of gravity and the laws of Newton. J High 
+Energy Phys (4): 29.
+3. K Skenderis, M Taylor (2008) The fuzzball proposal for black holes. Phys 
+Rep 467(5): 117-171.
+4. DD Blanco, H Casini, LY Hung, RC Myers (2013) Relative entropy and 
+holography. J High Energy Phys (8): 60.
+5. M Van Raamsdonk (2010) Building up spacetime with quantum 
+entanglement. Gen Rel Gravit 42(10): 2323-2329.
+6. N Lashkari, M B McDermott, M Van Raamsdonk (2014) Gravitational 
+dynamics from entanglement thermodynamics. J High Energy Phys (4): 
+195.
+7. G Resconi, I Licata, D Fiscaletti (2013) Unification of quantum and 
+gravity by nonclassical information entropy space. Entropy 15(9): 3602-
+3619.
+8. I Licata, L Chiatti (2009) The archaic universe: big bang, cosmological 
+term and the quantum origin of time in projective cosmology. Int J Theor 
+Phys 48(4): 1003-1018.
+9. WE Lamb, RC Ratherford (1947) Fine structure of the hydrogen atom by 
+a microwave method. Phys Rev 72(3): 241-243.
+10. HA Bethe (1947) The electromagnetic shift of energy levels. Phys Rev 
+72(4): 339-341.
+11. S K Lamoreaux (1997) Demonstration of the Casimir force in the 0.6 to 6 
+mu m range. Phys Rev Lett 78(1): 5-8.
+12. C R Stephens, Gt Hooft, BF Whiting (1994) Black-hole evaporation 
+without information loss. Class. Quantum Grav 11(3): 621-647.
+13. L Susskind (1995) The world as a hologram. J Math Phy 36(11): 6377-
+6396.
+14. R Bousso (2002) The holographic principle. Rev. Mod Phys 74(3): 825-
+874.
+ Volume 2 - Issue 1 Mod App Matrl Sci.
+Citation: Robert Skopec. Quantum Entaglement Entropy Produces Energy by Info-Entropy Fields Forces. Mod App Matrl Sci 2(1)- 2019. 
+MAMS.MS.ID.000126. DOI: 10.32474/MAMS.2019.02.000126.
+Copyrights @ Robert Skopec.
+166
+This work is licensed under Creative
+Commons Attribution 4.0 License
+To Submit Your Article Click Here: Submit Article
+Modern Approaches on 
+Material Science 
+Assets of Publishing with us
+• Global archiving of articles
+• Immediate, unrestricted online access
+• Rigorous Peer Review Process
+• Authors Retain Copyrights
+• Unique DOI for all articles
+DOI: 10.32474/MAMS.2019.02.000126
+15. S W Hawking (1975) Particle creation by black-holes. Commun Math 
+Phys 43(3): 199-220.
+16. Shujuan Liu, Hongwei Xiong (2019) On the quantum thermodynamic 
+origin of gravitational force byapplying spacetime entanglement entropy 
+and Unruh effect. Preprints 21: 26.
+17. R Skopec (2019) Quantum Resourrection: Quantum Algorithm 
+With Complex Conjugation Reverses Phases Of The Wave Function 
+Components. Journal of Neuroscience and Neurological Surgery 2(1): 
+32-38.
+18. R Skopec (2018) Evolution Continues with Quantum Biology and 
+Artificial Intelligence. ARC Journal of Immunology and Vaccines. 3(2): 
+15-23.
+19. R Skopec (2019) Naphazoline nitrate treat the frey effect of microwave 
+and other sonic weapon’s damages in human’s internal, organs. Virology: 
+Research & Reviews. 2(1): 1-5.
+20. R Skopec (2019) Negative Health Effects of the International Space 
+Station. Stem Cell Research International. 3(2): 1-6.
+21. R Skopec (2019) Fifth Dark Force Completely Change Our Understanding 
+of the Universe. Research Journal of Nanoscience and Engineering. 3(2): 
+22-29.
+22. R Skopec (2019) Darwin’s Theorem Revised: Survival of the Careerist. 
+Advancements in Cardiovascular Research 1(5): 89-93.
+23. R Skopec (2019) New Psychological Weapons Make Targets Hallucinate. 
+Journal Of Neuropsychiatry And Neurodisorders 1(1): 1-6.
+24. R Skopec (2019) The Transfiguration with Self-Phase Modulation 
+Effect of Entanglement in a Plasmatic Moving Frame. Current Trends in 
+Biotechnology and Biochemistry 1(2).

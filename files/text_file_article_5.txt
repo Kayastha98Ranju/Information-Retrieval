@@ -1,0 +1,59 @@
+Researchers achieve world-leading quantum entanglement
+of molecules
+Quantum 17th January 2025
+
+11/16/25, 8:44 PM Quantum entanglement of molecules achieved in world first
+https://www.innovationnewsnetwork.com/researchers-achieve-world-leading-quantum-entanglement-of-molecules/54471/ 1/4
+Researchers at Durham University have successfully demonstrated
+long-lasting quantum entanglement between molecules.
+Achieving this stage of quantum entanglement opens new doors for future advancements in quantum computing,
+sensing, and fundamental physics.
+In a world-first, scientists used precisely controlled optical traps, known as ‘magic-wavelength optical tweezers,’ to
+create a highly stable environment that supports long-lasting entanglement, a key capability for next-generation
+quantum technology.
+Quantum entanglement and its applications in technology
+Quantum entanglement is a fundamental phenomenon where two particles become linked, and the state of one
+particle directly influences the other, regardless of the distance between them.
+This means that measuring one particle’s property will instantly determine the property of the other, even though
+information cannot travel faster than the speed of light.
+Despite its strange implications, entanglement has been experimentally verified and is a fundamental concept in
+quantum mechanics, with potential applications in quantum computing and cryptography, such as:
+Quantum computing: Entanglement is a crucial resource in quantum computing, where quantum bits (qubits)
+can exist in entangled states, allowing for more powerful and faster computations than classical computers.
+Quantum cryptography: Entanglement can be used in secure communication methods, such as quantum key
+distribution, which ensures that any eavesdropping on quantum data transmission can be immediately detected.
+
+11/16/25, 8:44 PM Quantum entanglement of molecules achieved in world first
+https://www.innovationnewsnetwork.com/researchers-achieve-world-leading-quantum-entanglement-of-molecules/54471/ 2/4
+Molecule breakthrough is the first of its kind
+While quantum entanglement has been achieved with atoms, achieving it with complex molecules is a significant
+step forward because molecules offer additional structures and properties, such as vibration and rotation, that can
+be leveraged in advanced quantum applications.
+Professor Simon Cornish, who led the study, explained: “The results highlight the remarkable control we have over
+individual molecules.
+“Quantum entanglement is very fragile, yet we can entangle two molecules using incredibly weak interactions and
+then prevent loss of the entanglement for a time approaching one second.”
+This breakthrough was made possible by the development of a stable environment that maintains coherence in
+entangled molecules over extended periods.
+By using specially tuned laser light in the optical tweezers, the researchers are able to control molecules with
+unprecedented precision, paving the way for more complex quantum operations.
+“Our work demonstrates the incredible potential of molecules as building blocks for next-generation quantum
+technologies,” said Dr Daniel Ruttley, a co-author of the study.
+“Long-lived molecular entanglement could be exploited to construct quantum computers or precise quantum
+sensors and to understand the quantum nature of complex materials.”
+Molecule stability is essential
+The research achieved exceptionally high entanglement fidelity, reaching levels over 92% and even higher when
+accounting for correctable errors. 
+11/16/25, 8:44 PM Quantum entanglement of molecules achieved in world first
+https://www.innovationnewsnetwork.com/researchers-achieve-world-leading-quantum-entanglement-of-molecules/54471/ 3/4
+This stability in molecule entanglement is critical for applications requiring long measurement periods and storage
+of quantum information.
+Long-lived quantum entanglement in molecules could enhance precision measurements in quantum sensing,
+simulate complex quantum materials, and enable new forms of quantum computation.
+Additionally, this research supports the development of ‘quantum memories’ — devices that store quantum
+information for longer durations, essential for advanced quantum networks.
+The breakthrough is the latest in a series of advancements in quantum science and represents a major leap
+towards using molecules in complex quantum technology.
+
+11/16/25, 8:44 PM Quantum entanglement of molecules achieved in world first
+https://www.innovationnewsnetwork.com/researchers-achieve-world-leading-quantum-entanglement-of-molecules/54471/ 4/4

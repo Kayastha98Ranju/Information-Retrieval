@@ -1,0 +1,86 @@
+Physicists ‘entangle’ individual molecules
+for the first time, bringing about a
+newplatform for quantum science
+In a noteworthy first, a team of Princeton physicists has been able to link together individual molecules
+into special states that are quantum mechanically “entangled.” In these bizarre states, the molecules
+remain correlated with each other — and can interact simultaneously — even if they are miles apart, or
+indeed, even if they occupy opposite ends of the universe. This research was published
+(https://doi.org/10.1126/science.adf4272) in the current issue of the journal Science.
+“This is a breakthrough in the world of molecules because of the fundamental importance of quantum
+entanglement,” said Lawrence Cheuk (https://phy.princeton.edu/people/lawrence-cheuk), an assistant
+professor of physics at Princeton University, the senior author of the paper and a graduate of Princeton’s
+Class of 2010. “But it is also a breakthrough for practical applications because entangled molecules can
+be the building blocks for many future applications.”
+These include, for example, quantum computers that can solve certain problems much faster than
+conventional computers, quantum simulators that can model complex materials whose behaviors are
+difficult to model, and quantum sensors that can measure faster than their traditional counterparts.
+By Tom Garlinghouse for the Department of Physics on Dec. 8, 2023, 4:39 p.m.
+Laser setup for cooling,
+controlling, and entangling
+individual molecules.
+Photo by Richard Soden,
+Department of Physics
+Members of the Princeton research team. From left to
+right, Assistant Professor of Physics Lawrence Cheuk,
+graduate student in electrical engineering Yukai Lu, and
+graduate student in physics Connor Holland.
+Photo by Richard Soden, Department of Physics
+“One of the motivations in doing quantum science is that in the
+practical world it turns out that if you harness the laws of
+quantum mechanics, you can do a lot better in many areas,” said
+Connor Holland, a graduate student in the physics department
+and a co-author on the work.
+The ability of quantum devices to outperform classical ones is
+known as “quantum advantage.” And at the core of quantum
+advantage are the principles of superposition and quantum
+entanglement. While a classical computer bit can assume the
+value of either 0 or 1, quantum bits, called qubits, can
+simultaneously be in a superposition of 0 and 1.
+The latter concept, entanglement, is a major cornerstone of
+quantum mechanics. It occurs when two particles become
+inextricably linked with each other so that this link persists, even
+if one particle is light-years away from the other particle. It is the
+phenomenon that Albert Einstein, who at first questioned its
+validity, described as “spooky action at a distance.” Since then,
+physicists have demonstrated that entanglement is, in fact, an
+accurate description of the physical world and how reality is
+structured.
+“Quantum entanglement is a fundamental concept,” said Cheuk,
+“but it is also the key ingredient that bestows quantum advantage.”
+But building quantum advantage and achieving controllable quantum entanglement remain a challenge,
+not least because engineers and scientists are still unclear about which physical platform is best for
+creating qubits. In the past decades, many different technologies — such as trapped ions, photons,
+superconducting circuits, to name only a few — have been explored as candidates for quantum
+computers and devices. The optimal quantum system or qubit platform could very well depend on the
+specific application.
+Until this experiment, however, molecules had long defied controllable quantum entanglement. But
+Cheuk and his colleagues found a way, through careful manipulation in the laboratory, to control
+individual molecules and coax them into these interlocking quantum states. They also believed that
+molecules have certain advantages — over atoms, for example — that made them especially well-suited
+for certain applications in quantum information processing and quantum simulation of complex
+materials. Compared to atoms, for example, molecules have more quantum degrees of freedom and can
+interact in new ways.
+“What this means, in practical terms, is that there are new ways of storing and processing quantum
+information,” said Yukai Lu, a graduate student in electrical and computer engineering and a co-author
+of the paper. “For example, a molecule can vibrate and rotate in multiple modes. So, you can use two of
+these modes to encode a qubit. If the molecular species is polar, two molecules can interact even when
+spatially separated.”
+Nonetheless, molecules have proven notoriously difficult to control in the laboratory because of their
+complexity. The very degrees of freedom that make them attractive also make them hard to control, or
+corral, in laboratory settings. Cheuk and his team addressed many of these challenges through a
+carefully thought-out experiment involving a sophisticated experimental platform known as a “tweezer
+array,” in which individual molecules were picked up by a complex system of tightly focused laser
+beams, so-called “optical tweezers.”
+“Using molecules for quantum science is a new frontier and our demonstration of on-demand
+entanglement is a key step in demonstrating that molecules can be used as a viable platform for
+quantum science,” said Cheuk.
+In a separate article published in the same issue of Science, an independent research group led by John
+Doyle and Kang-Kuen Ni at Harvard University and Wolfgang Ketterle at the Massachusetts Institute of
+Technology achieved similar results.
+“The fact that they got the same results verify the reliability of our results,” Cheuk said. “They also show
+that molecular tweezer arrays are becoming an exciting new platform for quantum science.”
+“On-Demand Entanglement of Molecules in a Reconfigurable Optical Tweezer Array
+(https://doi.org/10.1126/science.adf4272),” by Connor M. Holland, Yukai Lu, and Lawrence W. Cheuk
+was published in Science on December 8, 2023, (DOI: 10.1126/science.adf4272
+(https://doi.org/10.1126/science.adf4272)). The work was supported by Princeton University, the
+National Science Foundation (2207518) and the Sloan Foundation (FG-2022-19104).
