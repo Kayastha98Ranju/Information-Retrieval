@@ -1,0 +1,6 @@
+The quick brown fox jumps over the lazy dog.
+A fox and a dog are playing in the field.
+Brown dogs chase foxes in the woods.
+Lazy cats sleep while dogs run.
+Quick jumps by the fox.
+Another very long document about foxes dogs and brown animals that repeats the words fox fox fox dog dog many times to test length normalization...
