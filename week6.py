@@ -55,8 +55,7 @@ def parse_relevance(file_path: str) -> Dict[int, set]:
                 rel[qid].add(did)
     return rel
 
-
-stopwords = set(['a', 'an', 'the', 'is', 'are', 'was', 'were', 'and', 'or', 'but', 'in', 'on', 'at', 'to', 'for', 'of', 'with', 'by'])  # Basic stopwords
+stopwords = set(['a', 'an', 'the', 'is', 'are', 'was', 'were', 'and', 'or', 'but', 'in', 'on', 'at', 'to', 'for', 'of', 'with', 'by'])
 
 def preprocess(text: str) -> List[str]:
     text = re.sub(r'[^\w\s]', '', text.lower())
@@ -87,7 +86,7 @@ def tfidf_vector(doc_terms: Dict, query_tokens: List[str], vocab: set, df: Dict,
                 tf_val = tf[term]
                 idf = math.log(N / (df.get(term, 1)))
                 vec[i] = tf_val * idf
-    else:  # Query vector
+    else:
         q_counter = Counter(query_tokens)
         for i, term in enumerate(term_list):
             if term in q_counter:
@@ -101,7 +100,6 @@ def cosine_similarity(vec1: np.ndarray, vec2: np.ndarray) -> float:
     norm1 = np.linalg.norm(vec1)
     norm2 = np.linalg.norm(vec2)
     return dot / (norm1 * norm2) if norm1 > 0 and norm2 > 0 else 0
-
 
 def rank_documents(query_tokens: List[str], doc_terms: Dict, vocab: set, df: Dict, N: int) -> List[tuple]:
     q_vec = tfidf_vector(doc_terms, query_tokens, vocab, df, N)
@@ -125,15 +123,29 @@ def average_precision(ranked_docs: List[int], relevant: set) -> float:
             precisions.append(hits / rank)
     return sum(precisions) / total_rel
 
-def compute_map(queries: Dict, rels: Dict, doc_terms: Dict, vocab: set, df: Dict, N: int) -> float:
-    aps = []
-    for qid, qtext in queries.items():
-        q_tokens = preprocess(qtext)
-        ranked_list = [doc for doc, _ in rank_documents(q_tokens, doc_terms, vocab, df, N)]
-        ap = average_precision(ranked_list, rels[qid])
-        aps.append(ap)
-    return sum(aps) / len(queries)
+def precision_at_k(ranked_docs: List[int], relevant: set, k: int) -> float:
+    top_k = ranked_docs[:k]
+    relevant_in_top_k = len(set(top_k) & relevant)
+    return relevant_in_top_k / k if k > 0 else 0.0
 
+def recall_at_k(ranked_docs: List[int], relevant: set, k: int) -> float:
+    top_k = ranked_docs[:k]
+    relevant_in_top_k = len(set(top_k) & relevant)
+    total_relevant = len(relevant)
+    return relevant_in_top_k / total_relevant if total_relevant > 0 else 0.0
+
+def ndcg_at_k(ranked_docs: List[int], relevant: set, k: int) -> float:
+    rel_set = relevant
+    dcg = 0.0
+    for i, doc in enumerate(ranked_docs[:k], 1):
+        rel = 1 if doc in rel_set else 0
+        dcg += rel / np.log2(i + 1)
+    num_rel = len(relevant)
+    ideal_rels = [1] * min(k, num_rel) + [0] * (k - min(k, num_rel))
+    idcg = 0.0
+    for i, rel in enumerate(ideal_rels, 1):
+        idcg += rel / np.log2(i + 1)
+    return dcg / idcg if idcg > 0 else 0.0
 
 docs = parse_documents('CISI.ALL')
 queries = parse_queries('CISI.QRY')
@@ -141,7 +153,13 @@ rels = parse_relevance('CISI.REL')
 
 doc_terms, inv_index, vocab, df, N = build_index(docs)
 
-print("Starting retrieval for all 112 queries...\n")
+ks = [5, 10, 20]
+precisions = {k: [] for k in ks}
+recalls = {k: [] for k in ks}
+ndcgs = {k: [] for k in ks}
+aps = []
+
+print("Starting evaluation for all queries...\n")
 print("="*80)
 
 total_ap = 0.0
@@ -150,22 +168,31 @@ num_queries = len(queries)
 for qid in sorted(queries.keys()):
     qtext = queries[qid]
     q_tokens = preprocess(qtext)
-  
     ranked = rank_documents(q_tokens, doc_terms, vocab, df, N)
+    ranked_docs = [doc_id for doc_id, _ in ranked]
+    relevant = rels[qid]
 
-    relevant_docs = rels[qid]
-    ap = average_precision([doc_id for doc_id, _ in ranked], relevant_docs)
+    ap = average_precision(ranked_docs, relevant)
+    aps.append(ap)
     total_ap += ap
 
+    for k in ks:
+        precisions[k].append(precision_at_k(ranked_docs, relevant, k))
+        recalls[k].append(recall_at_k(ranked_docs, relevant, k))
+        ndcgs[k].append(ndcg_at_k(ranked_docs, relevant, k))
+
     print(f"QUERY {qid:3d} | AP = {ap:.4f}")
-    print(f"Text: {qtext.strip()}")
-    print("Top 5 documents:")
+    print(f"Top 5 documents:")
     for rank, (doc_id, score) in enumerate(ranked[:5], 1):
         print(f"   {rank:2d}. Doc {doc_id:4d} → Score: {score:.4f}")
     print("-" * 80)
 
-map_score = total_ap / num_queries if num_queries > 0 else 0
-print(f"\nFINAL RESULT")
-print(f"Mean Average Precision (MAP) @ all queries: {map_score:.4f}")
-print(f"Total queries processed: {num_queries}")
+map_score = total_ap / num_queries if num_queries > 0 else 0.0
+
+print("\nFINAL RESULTS")
+print(f"Mean Average Precision (MAP): {map_score:.4f}")
+for k in ks:
+    print(f"Precision@{k}: {np.mean(precisions[k]):.4f}")
+    print(f"Recall@{k}: {np.mean(recalls[k]):.4f}")
+    print(f"nDCG@{k}: {np.mean(ndcgs[k]):.4f}")
 print("="*80)
